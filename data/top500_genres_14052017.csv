@@ -1,0 +1,501 @@
+"","genre","freqRecord","freqDataSource"
+"1","text",53633845,964
+"2","Text",28652170,514
+"3","article",24809127,491
+"4","info:eu-repo/semantics/article",14670974,2471
+"5","publication en série imprimée",12547627,6
+"6","texte",12500048,7
+"7","printed serial",12415593,5
+"8","Article",11453272,1457
+"9","Dataset",10696039,410
+"10","Image",9390176,666
+"11","info:eu-repo/semantics/publishedVersion",9096670,2143
+"12","TEXT",6529399,11
+"13","PeerReviewed",6040184,468
+"14","image",5417832,211
+"15","Journal article",5333843,186
+"16","NonPeerReviewed",4652924,546
+"17","Journal Article",4228071,388
+"18","image fixe",4141074,9
+"19","Published",3756614,5
+"20","still image",3450108,77
+"21","info:eu-repo/semantics/conferenceObject",3348209,378
+"22","monographie imprimée",3160965,8
+"23","printed monograph",2969007,5
+"24","Thesis",2758605,1013
+"25","czasopismo",2745182,56
+"26","Departmental Bulletin Paper",2409213,406
+"27","Other",2271331,1149
+"28","Journal articles",2210884,112
+"29","book",1863850,416
+"30","Book",1830454,1400
+"31","info:eu-repo/semantics/bookPart",1684696,366
+"32","preprint",1500781,97
+"33","text (article)",1440100,2
+"34","physical object",1405317,7
+"35","object",1397500,4
+"36","monnaie",1373422,2
+"37","Report",1325569,393
+"38","info:eu-repo/semantics/other",1302336,381
+"39","Collection",1296977,100
+"40","Conference papers",1255871,113
+"41","Peer-reviewed Article",1205550,884
+"42","publishedVersion",1087890,52
+"43","journal article",1057111,38
+"44","Dataset/UNITE Species Hypothesis",1038830,1
+"45","Issue",1037876,20
+"46","info:eu-repo/semantics/doctoralThesis",1026506,387
+"47","periodical",1002898,49
+"48","photograph",942972,62
+"49","audio",937848,31
+"50","Números",936793,3
+"51","Newspaper",932206,92
+"52","學位論文 ; thesis",931109,1
+"53","thesis",929459,142
+"54","Photograph",914575,81
+"55","contributionToPeriodical",870077,72
+"56","photographie",863932,4
+"57","StillImage",843751,80
+"58","Conference Paper",783963,253
+"59","Master thesis",783455,187
+"60","Electronic Thesis or Dissertation",777569,30
+"61","Description (Metadata) only",750149,4
+"62","info:eu-repo/semantics/book",704936,422
+"63","Still Image",691420,88
+"64","Peer reviewed",658688,91
+"65","Others",650129,398
+"66","Thesis or Dissertation",637075,318
+"67","info:eu-repo/semantics/bachelorThesis",621273,193
+"68","DataSheet",604154,1
+"69","video",574815,83
+"70","compterendu",560565,3
+"71","Conference or Workshop Item",519338,307
+"72","info:eu-repo/semantics/masterThesis",508874,284
+"73","IT",501864,6
+"74","estampe",500153,2
+"75","engraving",500146,5
+"76","Monograph",498417,301
+"77","conferenceObject",490950,154
+"78","dataset",469608,66
+"79","期刊论文",460845,67
+"80","Article/Letter to editor",460618,3
+"81","map",432695,48
+"82","Conference",431651,35
+"83","Book Section",423180,292
+"84","collection",415998,44
+"85","carte",401131,3
+"86","Articles",393993,48
+"87","oceanographic cruise",384560,1
+"88","Article / Letter to editor",375487,7
+"89","info:eu-repo/semantics/report",372413,298
+"90","sound",362388,75
+"91","Artículo",359378,76
+"92","VHS-ProgrammAdult Education Colleges-Programme",355208,1
+"93","doc-type:article",345734,89
+"94","info:eu-repo/semantics/Article",325593,8
+"95","manuscript",322017,41
+"96","Conference paper",318704,139
+"97","Dissertation",313024,160
+"98","manuscrit",307383,5
+"99","imagen",302676,5
+"100","Book sections",297848,105
+"101","masterThesis",297036,139
+"102","tanulmány(ok)",287264,2
+"103","images",282926,7
+"104","bachelorThesis",277012,83
+"105","Artículo revisado por pares",274958,203
+"106","Publication",273508,27
+"107","Theses",272689,126
+"108","Still image",272208,60
+"109","document sonore",268826,4
+"110","Figure",256311,7
+"111","post",245006,2
+"112","Article / Letter to the editor",239533,7
+"113","Book Chapter",238479,150
+"114","info:eu-repo/semantics/conferenceItem",238211,13
+"115","Presentation",237601,629
+"116","Online-Ressource",236503,24
+"117","Student thesis",230871,42
+"118","Working paper",229998,150
+"119","External research report",227214,24
+"120","Cosecha OAI",226072,1
+"121","Book chapter",225976,487
+"122","Research report",223986,118
+"123","metadata",219347,2
+"124","Photographs",219070,61
+"125","xml",216917,3
+"126","item",214870,3
+"127","info:eu-repo/semantics/conferencePaper",213187,55
+"128","Sound",209720,140
+"129","Journal",205937,151
+"130","report",204080,246
+"131","conference_paper",203887,6
+"132","U – Thesis",202131,3
+"133","Atlas Map",199610,2
+"134","document cartographique",198294,4
+"135","cartographic resource",198086,3
+"136","drawing",196832,25
+"137","info:eu-repo/semantics/preprint",196684,193
+"138","Doctoral thesis",196194,134
+"139","dessin",194415,3
+"140","Paper",193303,96
+"141","/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",191620,1
+"142","szakdolgozat",186131,4
+"143","Preprints, Working Papers, ...",185165,108
+"144","gazeta",181520,12
+"145","Technical Report",177098,494
+"146","journal",177033,50
+"147","other",176369,309
+"148","Gaussian job archive",171541,3
+"149","Document",170363,57
+"150","Research Article",170139,37
+"151","P(論文)",167671,73
+"152","conference paper",167419,20
+"153","Map",164790,196
+"154","DataFile",155725,1
+"155","info:eu-repo/semantics/review",155381,120
+"156","bibliography",154685,29
+"157","Bachelor thesis",152953,78
+"158","article in peer-reviewed journal",151104,3
+"159","peer-reviewed article",150671,35
+"160","journalArticle",148979,4
+"161","Reports",147573,144
+"162","info:ulb-repo/semantics/openurl/article",146808,1
+"163","Prensa",144969,3
+"164","Journal:eArticle",144545,1
+"165","Czasopismo",144213,9
+"166","Buku Teks",143916,2
+"167","outro",143589,2
+"168","Photographie de presse -- 1900-1945",142961,2
+"169","autre",138645,2
+"170","Photos",138151,59
+"171","conference",137017,45
+"172","Part of book or chapter of book",135933,32
+"173","info:ulb-repo/semantics/articlePeerReview",135549,2
+"174","Research Paper",133252,205
+"175","Tesis",131848,75
+"176","http://griffith.edu.au/ontology/hubextensions/RADPublication",130422,1
+"177","book chapter",129381,25
+"178","World Atlas",129093,1
+"179","Correspondence",128915,78
+"180","Gazeta",128574,1
+"181","DigitalObject",128354,1
+"182","fénykép",127566,3
+"183","Working Paper",125376,502
+"184","a",124465,11
+"185","Book or Report Section",123289,2
+"186","newspaper",123242,40
+"187","Artikel",122206,18
+"188","JPEG2000",119332,1
+"189","regény",119168,1
+"190","Letter",118943,113
+"191","碩士",118130,5
+"192","Archives and Manuscripts",116171,1
+"193","info:eu-repo/semantics/lecture",116064,146
+"194","Artigo Avaliado pelos Pares",115764,127
+"195","contributiontojournal/article",115437,1
+"196","PhD thesis",114579,28
+"197","Değerlendirmeden geçmiş makale",114505,2
+"198","Dissertação de Mestrado",113811,10
+"199","publication",113776,10
+"200","Dissertação",112527,26
+"201","vers(ek)",112311,2
+"202","http://purl.org/dc/dcmitype/Text",112236,2
+"203","text_newspaper",111748,1
+"204","IMa",110236,4
+"205","ARTICLE",110104,10
+"206","Chapter",108329,119
+"207","doc-type:workingPaper",107964,19
+"208","czasopisma",106994,10
+"209","Article: post-print",106555,1
+"210","journal-article",106406,2
+"211","A",106212,12
+"212","会议论文",104027,55
+"213","Articulo",103911,29
+"214","Thesis (Ph.D.)",103424,3
+"215","Portraits",103087,22
+"216","紀要論文",102837,24
+"217","Governing body documents",101773,1
+"218","論文(Article)",101694,24
+"219","amk",101607,1
+"220","YH-examen",101606,1
+"221","Bachelor's Degree",101604,1
+"222","fotografia",100881,30
+"223","Noticia",100229,8
+"224","bakalářská práce",100149,7
+"225","Diplomová práce",99737,5
+"226","Plate",99615,2
+"227","Article in monograph or in proceedings",99283,11
+"228","Bakalářská práce",98312,5
+"229","doctoralThesis",97521,133
+"230","Materiale didattico / Presentazione",97111,1
+"231","Books",96559,139
+"232","Other publications",96419,107
+"233","info:eu-repo/semantics/workingPaper",95981,104
+"234","manuscript cartographic resource",95516,2
+"235","document cartographique manuscrit",95516,2
+"236","książka",95046,59
+"237","Master's thesis",94799,33
+"238","Imatge",94573,4
+"239","dissertation",93495,47
+"240","Resumo publicado em evento",93399,1
+"241","Research article",92802,21
+"242","notebiblio",91602,2
+"243","DigitalisatDigital copy",91431,1
+"244","Clippings<br>Text",90738,3
+"245","type:math",89207,1
+"246","PeriodicalVolume",88782,8
+"247","Volume",87456,13
+"248","Journal article          ",87321,1
+"249","Picture",87280,8
+"250","diplomová práce",87222,7
+"251","Artículo científico",86649,12
+"252","C",86084,16
+"253","Artykuł",85656,9
+"254","Thesis/Dissertation",85519,7
+"255","review",85029,175
+"256","InteractiveResource",84707,20
+"257","Literature",84354,6
+"258","Periodical",84264,61
+"259","Documents",84179,20
+"260","Book section",84117,99
+"261","doc-type:doctoralThesis",83898,51
+"262","Research",83455,46
+"263","Specialized Mix",83172,1
+"264","Proceedings paper",83122,2
+"265","text:not_categorized",83119,1
+"266","chapter",81938,16
+"267","historicalDocument",81378,2
+"268","elbeszélés(ek)",80649,1
+"269","IMAGE",80240,5
+"270","mixed material",79350,17
+"271","cikk(ek)",78677,3
+"272","Conference Item",78263,20
+"273","Journal (Paginated)",77573,20
+"274","application/pdf",77373,38
+"275","Publisher's version",77238,5
+"276","bookPart",76651,130
+"277","info:eu-repo/semantics/contributionToPeriodical",76513,68
+"278","Conference Proceeding",76452,24
+"279","Contribution in Book/Report/Proceedings",76249,1
+"280","monograph",75435,27
+"281","doc-type:Text",75320,5
+"282","Image;",75081,38
+"283","Directions of work or proceedings",73653,104
+"284","cartographic",73446,22
+"285","folyóiratcikk",73385,3
+"286","Academic journal article",73365,1
+"287","Glass negatives.",73275,1
+"288","Carte postale",73095,1
+"289","Video",73044,579
+"290","Material gráfico",73034,1
+"291","conference proceeding",73034,6
+"292","Materiale didattico",73020,7
+"293","Bachelor's thesis",73001,4
+"294","会議発表用資料;Presentation",72569,1
+"295","学位论文",72321,60
+"296","Tese de Doutorado",71968,4
+"297","IC",71789,4
+"298","JADA          ",70525,1
+"299","Nacional",70246,2
+"300","Documento Histórico",70134,3
+"301","View",69916,1
+"302","Article scientifique",69531,3
+"303","Poster",69092,152
+"304","Artículo de revista",68848,12
+"305","doc-type:bookPart",68140,23
+"306","CONFERANCE",66918,1
+"307","image_photo",66914,2
+"308","Envelope",66898,5
+"309","musical notation",66807,2
+"310","survey data",66726,4
+"311","Original research",65672,11
+"312","doc-type:book",65605,88
+"313","staré tiskyczenas",65098,2
+"314","Still Image;",65076,20
+"315","proceeding with peer review",65043,5
+"316","Konferenzbeitrag",64945,4
+"317","group",64808,1
+"318","person",63981,10
+"319","series",63938,16
+"320","Teaching Resource",63869,116
+"321","texts",63751,4
+"322","Princeton University Senior Theses",63244,1
+"323","gazety",63154,2
+"324","grafika",63094,21
+"325","info:eu-repo/semantics/acceptedVersion",63012,65
+"326","Poster communications",62707,95
+"327","dataPackage",61784,1
+"328","artykuÅ‚",61755,40
+"329","Printed language material",61584,2
+"330","Doctoral",61239,26
+"331","grant",61055,1
+"332","Рецензована стаття",60879,20
+"333","Άρθρο που αξιολογήθηκε από ομότιμους αξιολογητές",60856,2
+"334","könyv",60832,7
+"335","Fileset",60539,1
+"336","data",60521,10
+"337","notated music",60336,17
+"338","Article revisat per persones expertes",60076,7
+"339","Zeitschriftenartikel",59687,6
+"340","Master thesis (pre-Bologna period)",59416,4
+"341","újságrészlet",59308,2
+"342","Conference_Paper",58956,2
+"343","Audiovisual",58942,9
+"344","Military Atlas",58871,1
+"345","Non-conventional",58532,1
+"346","MPRA Paper",58343,1
+"347","ajaleht          ",57994,1
+"348","info:ar-repo/semantics/artículo",57488,14
+"349","Imagen",55883,19
+"350","Script",55549,14
+"351","Proceeding",55338,17
+"352","letter",55240,50
+"353","Volume de périodique",55024,1
+"354"," text",54846,5
+"355","DataPackage",54333,1
+"356","M2",54219,9
+"357"," image",53683,4
+"358","Review",53078,248
+"359","Data or Dataset",52949,26
+"360","CHECKLIST",52661,1
+"361","Patent",52587,213
+"362","texte imprimé",52482,3
+"363","Nursing Museum Photograph",52011,1
+"364","Learning Object",51425,281
+"365","PhysicalObject",51406,24
+"366","Pro gradu",51338,3
+"367","Proceeing",51245,1
+"368","book_chapter",51214,6
+"369","National Atlas",51053,1
+"370","Objeto de conferencia",51014,1
+"371","ConferencePaper",50456,6
+"372","Memorandum",50339,16
+"373","postcard",50321,20
+"374","Performance",49306,90
+"375","Text Page",49099,1
+"376","ei",49088,1
+"377","scientific book chapter",48882,6
+"378","Refereed Article",48617,6
+"379","博士論文要旨集 Doctoral thesis abstracts",48555,1
+"380","Journal/Magazine Article",48446,1
+"381","moving image",48363,49
+"382","Field Document",48282,1
+"383","artículo",47145,20
+"384","Student Papers",47142,1
+"385","http://purl.org/eprint/type/JournalArticle",46541,4
+"386","Статья",46162,8
+"387","Documento",46125,14
+"388","Buch",45758,15
+"389","obituaries",45739,3
+"390","Skripsi",45653,7
+"391","Positivos",45444,1
+"392","Press Release",44774,11
+"393","Artikel undergået peer review",44532,3
+"394","Artigo",44302,63
+"395","Apresentação oral",44233,1
+"396","Article in journal",44221,41
+"397","##rt.metadata.pkp.peerReviewed##",43986,2
+"398","Thesis (University of Nottingham only)",43888,3
+"399","Software",43475,237
+"400","életrajz(ok)",43290,2
+"401","Research paper (M.A.), 4 hrs.",43246,1
+"402","博士",43228,86
+"403","reporting",43213,9
+"404","Doctoral Thesis",43207,44
+"405","photographs",42730,31
+"406","Journal paper",42574,2
+"407","Separate Map",42461,1
+"408","AA",42289,2
+"409","گزارش",42180,2
+"410","Book, Whole",41782,5
+"411","info:ulb-repo/semantics/doctoralThesis",41743,3
+"412","info:ulb-repo/semantics/openurl/vlink-dissertation",41741,2
+"413","Linguistic type: primary text",41609,1
+"414","Meeting abstract",41093,11
+"415","Musical Score",40996,73
+"416","rękopis",40766,43
+"417","1 photograph ;",40710,1
+"418","Glass photonegatives",40710,1
+"419","その他",40298,30
+"420","Libro",40226,78
+"421","Newsletter",40044,98
+"422","ArchivalObject",39674,1
+"423","Genre musical : divers",39470,2
+"424","R – Report",39436,1
+"425","0",39384,8
+"426","original article",39339,8
+"427","AT",39326,5
+"428","doctoralthesis",39265,52
+"429","Hochschulschrift",39242,15
+"430","Conference contribution",39221,10
+"431","Cikk, tanulmány, mű",39064,1
+"432","EU Commission – Working Document",38761,1
+"433","Preprint",38661,357
+"434","Dissertation/thesis",38447,1
+"435","muzeális dokumentum",38402,2
+"436","Editorial",38169,280
+"437","博士論文 Doctoral Thesis",37693,2
+"438","VORS",37690,2
+"439","material textual, impresso",37477,1
+"440","Manuscript",37428,69
+"441","Karya Ilmiah",37266,1
+"442","manuscripttext",37142,8
+"443","Main Document",37097,1
+"444","doc-type:conferenceObject",36992,27
+"445","bacterial metadata",36596,1
+"446","Monographie",36553,14
+"447","一般雑誌記事",36487,7
+"448","black-and-white photographs",36485,10
+"449","conference, seminar, workshop communication",36291,3
+"450","Article de périodique (Journal article)",36092,3
+"451","Conference report",35932,27
+"452","データ・データベース",35434,1
+"453","データセット(萩庭) Dataset(Haginiwa)",35432,1
+"454","IHb",35073,4
+"455","doc-type:doctoralthesis",35060,32
+"456","Buku – Circulation (Dapat Dipinjam)",35047,2
+"457","színdarab(ok)",35014,1
+"458","info:ulb-repo/semantics/openurl/document",34724,1
+"459","Prints",34368,17
+"460","XML document",34310,1
+"461","könyvrészlet",34257,3
+"462","Discussion paper",34247,16
+"463","Moving Image",34087,78
+"464","research report",34001,15
+"465","学協会口頭（ポスターセッションを含む）",33906,1
+"466","Publication – Article",33903,2
+"467","disszertáció",33856,6
+"468","picture",33837,14
+"469","Artículo – Article",33809,1
+"470","Fotografies",33713,1
+"471","VOR                                     ",33687,2
+"472","D1 Artikkeli ammattilehdessä",33663,5
+"473","stary druk",33650,23
+"474","Documento Completo",33212,2
+"475","学術雑誌論文;Journal Article",33201,1
+"476","Collection de périodiques",33001,1
+"477","专利",32928,48
+"478","Field_expedition",32884,1
+"479","text/xml",32838,1
+"480","Zeitschrift",32824,8
+"481","nyomtatvány",32784,2
+"482","None",32770,4
+"483","Reviewed (other)",32536,1
+"484","Text.Thesis.Doctoral",32457,14
+"485","DI",32341,6
+"486","esszé(k)",32339,1
+"487","Photographic prints",32267,22
+"488","kisregény",32142,1
+"489","research-article",32064,34
+"490","Texto policopiado]",31926,1
+"491","Dissertação (Mestrado)",31900,1
+"492","Tese",31875,23
+"493","szakkönyv",31857,2
+"494","book-review",31801,29
+"495","hungarikum",31760,1
+"496","OCCURRENCE",31735,1
+"497","interactive resource",31679,13
+"498","ressource multimédia",31606,2
+"499","misc",31589,5
+"500","info:eu-repo/semantics/patent",31378,187
